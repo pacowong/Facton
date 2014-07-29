@@ -2,7 +2,6 @@ FactumPower
 ===========
 Introduction
     People have their individual thoughts. Living in different areas, receiving news from different sources, studying in different schools and other factors have large implications on one's judgement. People may have total different comments on the same issue. Although it is encouraged to judge everything from multiple perspectives, many people rarely act rationally in debate. However, even we want to think rationally, the related information can be huge and difficult to find. How can computers help us to make better judgement?
-
     Natural language processing techniques have generated revenues after applying them to perform text mining and movie recommendation tasks. To a certain extent, computers can understand the arguments and discover the counter-arguments. Apart from doing inference in natural language, the system should point out the mistakes and summarize the arguments to as to help the audience to understand the issues and correct their biases. It is feasible to develop a system to make less biased judgement by leveraging the "power of facts".
 
 Implications
