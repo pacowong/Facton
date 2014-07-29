@@ -5,6 +5,7 @@ Introduction
     Natural language processing techniques have generated revenues after applying them to perform text mining and movie recommendation tasks. To a certain extent, computers can understand the arguments and discover the counter-arguments. Apart from doing inference in natural language, the system should point out the mistakes and summarize the arguments to as to help the audience to understand the issues and correct their biases. It is feasible to develop a system to make less biased judgement by leveraging the "power of facts".
 
 Implications
+    It has the following implications
     1. Promote a rational community
     2. Encourage people to discovery the (temporary) truth
     3. Encourage people to have their own deep thoughts while still being objective
@@ -15,7 +16,6 @@ Methodology
     1. Understand the contents of the arguments
     2. Find the counter-arguments
     3. Summarize the arguments
-
 
 Problem Definition
 This is for the offline version of FactumPower.
